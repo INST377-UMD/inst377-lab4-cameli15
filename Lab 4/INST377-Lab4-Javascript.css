@@ -1,0 +1,31 @@
+body {
+    background-color: #FFC5D3;
+}
+
+#head {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section-1 {
+    background-color: #aac28c;
+    border: 2px solid #905050;
+    padding: 10px;
+    border-radius: 5px;
+    color: #502d2d;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+.section {
+    background-color: #aac28c;
+    border: 2px solid #905050;
+    padding: 10px;
+    border-radius: 5px;
+    color: #502d2d;
+    margin-bottom: 10px;
+    
+    
+}
