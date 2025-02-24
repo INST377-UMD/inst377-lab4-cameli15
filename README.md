@@ -4,3 +4,5 @@
 # Name: Cinthia Contreras
 
 # Comments: 
+I finished all the lab requirements at 11:58pm but I continued to tweak parts of it for aesthetic reasons. 
+No functional purposes or anything (just working on css for the buttons). 
