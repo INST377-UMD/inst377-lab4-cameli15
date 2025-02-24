@@ -1,5 +1,6 @@
 body {
     background-color: #FFC5D3;
+    transition: 0.3s;
 }
 
 #head {
@@ -7,6 +8,11 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.main-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
 .section-1 {
     background-color: #aac28c;
     border: 2px solid #905050;
@@ -14,9 +20,7 @@ body {
     border-radius: 5px;
     color: #502d2d;
     margin-bottom: 10px;
-    
-    
-    
+
 }
 
 .section {
@@ -26,6 +30,17 @@ body {
     border-radius: 5px;
     color: #502d2d;
     margin-bottom: 10px;
-    
-    
+
 }
+
+button {
+    background-color: #556344;
+    color: aliceblue;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+button:hover {
+    background-color:#905050;
+}
+
